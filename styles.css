@@ -1,0 +1,60 @@
+h1, h2 {
+    font-family: georgia;
+}
+
+.heading h1 {
+    font-weight: bold;
+    font-size: 32px;
+}
+
+.heading h2 {
+    font-size: 18px;
+    color: blue;
+}
+
+.first-p {
+    font-size: 16px;
+    font-family: georgia;
+    text-align: center;
+}
+
+.second-p {
+    color: #A8FF33;
+    text-align: left;
+}
+
+.div-style div {
+    width: 100%;
+    height: 300px;
+}
+
+#div3, #div4 {
+    position: absolute;
+    left: 0px;
+    top: 600px;
+}
+
+#div1 {
+    background-color: grey;
+    font-size: 30px;
+}
+
+#div2 {
+    background-image: url('water-drops.jpg');
+    background-position: center;
+    background-size: cover;
+    font-size: 30px;
+}
+
+#div3 {
+    background-image: url('alarm-clock.jpg');
+    background-position: center;
+    background-size: cover;
+    font-size: 30px;
+}
+
+#div4 {
+    background-color: red;
+    opacity:0.3;
+    font-size: 30px;
+}
